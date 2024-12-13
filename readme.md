@@ -1,0 +1,1 @@
+All core functionalities are contained within Codebase.ipynb, which guides users through data loading, preprocessing, baseline consolidation, feature integration, and model training using ensemble gradient-boosted decision trees. Running this notebook yields predictive models
